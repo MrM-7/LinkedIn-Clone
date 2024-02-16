@@ -80,7 +80,3 @@ Deploy your LinkedIn Clone to Firebase Hosting:
    npm run build
    firebase deploy
    ```
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
