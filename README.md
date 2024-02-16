@@ -8,6 +8,16 @@ LinkedIn Clone is a social media platform that replicates the core features of L
 
 Explore the [LinkedIn Clone Demo](https://linkedin-clone-5cd9f.web.app/).
 
+## Tech Stack
+
+- React
+- Redux
+- Firebase
+- @mui/icons-material (for Material-UI Icons)
+- React Hook Form (for form handling)
+- Yup (for form validation)
+- React Flip Move (for smooth animations)
+
 ## Installation
 
 1. Clone the repository:
@@ -39,16 +49,6 @@ Explore the [LinkedIn Clone Demo](https://linkedin-clone-5cd9f.web.app/).
 2. Open your browser and visit [http://localhost:5173/](http://localhost:5173/).
 
 3. Create an account, post updates, and engage with other users' posts.
-
-## Tech Stack
-
-- React
-- Redux
-- Firebase
-- @mui/icons-material (for Material-UI Icons)
-- React Hook Form (for form handling)
-- Yup (for form validation)
-- React Flip Move (for smooth animations)
 
 ## Deployment
 
