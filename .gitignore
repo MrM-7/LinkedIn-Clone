@@ -11,7 +11,7 @@ node_modules
 build
 dist
 dist-ssr
-config/firebase.js
+src\config\firebase.js
 *.local
 
 # Editor directories and files
